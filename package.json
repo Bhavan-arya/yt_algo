@@ -28,6 +28,6 @@
     "concurrently": "^8.2.0"
   },
   "keywords": ["youtube", "algorithm", "analytics", "keystroke", "creator-feedback"],
-  "author": "Your Name",
+  "author": "Bhavan Arya",
   "license": "MIT"
 }
